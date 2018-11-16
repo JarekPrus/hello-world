@@ -1,1 +1,3 @@
-Instrukcja obsługi
+>>>Instrukcja obsługi<<<
+
+Dodatkowy tekst
